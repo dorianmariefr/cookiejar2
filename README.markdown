@@ -1,9 +1,11 @@
+[![CircleCI](https://circleci.com/gh/dorianmariefr/cookiejar2/tree/main.svg?style=svg)](https://circleci.com/gh/dorianmariefr/cookiejar2/tree/main)
+
 Ruby CookieJar
 ==============
 
   **Git**:	[http://github.com/dwaite/cookiejar](http://github.com/dwaite/cookiejar)
 
-  **Author**:	David Waite 
+  **Author**:	David Waite
 
 [![Build Status](https://travis-ci.org/dwaite/cookiejar.svg?branch=master)](https://travis-ci.org/dwaite/cookiejar)
 
