@@ -8,3 +8,8 @@ jobs:
       - checkout
       - run: bundle install
       - run: rspec
+
+workflows:
+  test:
+    jobs:
+      - test
