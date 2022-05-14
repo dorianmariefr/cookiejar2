@@ -1,5 +1,9 @@
 [![CircleCI](https://circleci.com/gh/dorianmariefr/cookiejar2/tree/main.svg?style=svg)](https://circleci.com/gh/dorianmariefr/cookiejar2/tree/main)
 
+This is a fork to fix warnings.
+
+-----
+
 Ruby CookieJar
 ==============
 
