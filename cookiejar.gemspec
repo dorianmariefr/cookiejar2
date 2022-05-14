@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'cookiejar/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'cookiejar'
+  s.name        = 'cookiejar2'
   s.version     = CookieJar::VERSION
   s.authors     = ['David Waite']
   s.license     = 'BSD-2-Clause'
